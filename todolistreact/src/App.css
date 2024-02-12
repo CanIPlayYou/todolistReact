@@ -1,0 +1,59 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.NavBar{
+  background-color: #595959;
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  position: relative;
+}
+
+.Main{
+  background-color: #a5a5a5;
+  height: 622px;
+  width: 100%;
+  margin-top: -18px;
+  padding-top: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.List{
+  background-color: #7f7f7f;
+  height: 500px;
+  width: 1200px;
+  margin-top: 10px;
+  border-radius: 25px;
+}
+
+.ItemsInList{
+  height: 87.8%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Items{
+  overflow-y: auto;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.Foter{
+  background-color: #595959;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
